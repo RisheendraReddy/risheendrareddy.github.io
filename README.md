@@ -1,4 +1,4 @@
-# Risheendra Reddy Boddu
+# Solving problems with passion and a smile
 
 [LinkedIn](https://www.linkedin.com/in/risheendra-reddy-0a7b3a204) | [GitHub](https://www.github.com/RisheendraReddy) | rboddu1@asu.edu | (602) 625-1330
 
