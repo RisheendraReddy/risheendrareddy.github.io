@@ -21,7 +21,8 @@
 ### Associate Product Management Intern  
 Veterinary Biological Research Institute (May 2024 - Aug 2024, Remote)  
 - Defined and documented backend tool requirements, improving data accuracy and speeding remediation by 30%  
-- Managed Jira sprints and backlog (10+ tickets per cycle) in cross-functional agile team  
+- Managed Jira sprints and backlog (10+ tickets per cycle) in cross-functional agile team
+- Facilitated collaboration between designers and engineers to deliver intuitive UI solutions that met both user experience and technical requirements.
 - Conducted stakeholder interviews and process documentation, boosting team alignment  
 - Assisted user acceptance testing and tracked product health metrics via dashboards
 
