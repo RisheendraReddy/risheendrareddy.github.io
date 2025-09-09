@@ -35,7 +35,8 @@ ASU Center for Entrepreneurship & New Business Design (Sep 2024 - Apr 2025, Temp
 
 ### Residential Assistant  
 Arizona State University (Jan 2023 - May 2025, Tempe, AZ)  
-- Created community initiatives supporting 2,300+ students emphasizing usability and feedback.  
+- Created community initiatives supporting 2,300+ students emphasizing usability and feedback.
+- Organized 5+ collaborative events per semester, improving campus engagement by 30%.
 - Designed and launched student portal (HTML, Google Sites), improving wellness/academic resource access by 20%.
 
 ## Projects
