@@ -25,6 +25,7 @@ Veterinary Biological Research Institute (May 2024 - Aug 2024, Remote)
 - Facilitated collaboration between designers and engineers to deliver intuitive UI solutions that met both user experience and technical requirements.
 - Conducted stakeholder interviews and process documentation, boosting team alignment  
 - Assisted user acceptance testing and tracked product health metrics via dashboards
+[Download my PM Portfolio Case Study (PDF)](/assets/docs/VBRI_PM_Portfolio_Case_Study.pdf)
 
 ### Full Stack Intern  
 ASU Center for Entrepreneurship & New Business Design (Sep 2024 - Apr 2025, Tempe, AZ)  
