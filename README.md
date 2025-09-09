@@ -20,37 +20,37 @@
 
 ### Associate Product Management Intern  
 Veterinary Biological Research Institute (May 2024 - Aug 2024, Remote)  
-- Defined and documented backend tool requirements, improving data accuracy and speeding remediation by 30%  
-- Managed Jira sprints and backlog (10+ tickets per cycle) in cross-functional agile team
+- Defined and documented backend tool requirements, improving data accuracy and speeding remediation by 30%.
+- Managed Jira sprints and backlog (10+ tickets per cycle) in cross-functional agile team.
 - Facilitated collaboration between designers and engineers to deliver intuitive UI solutions that met both user experience and technical requirements.
-- Conducted stakeholder interviews and process documentation, boosting team alignment  
-- Assisted user acceptance testing and tracked product health metrics via dashboards
-[Download my PM Portfolio Case Study (PDF)](/assets/docs/VBRI_PM_Portfolio_Case_Study.pdf)
+- Conducted stakeholder interviews and process documentation, boosting team alignment.
+- Assisted user acceptance testing and tracked product health metrics via dashboards.
+[Download my PM Portfolio Case Study (PDF)](/VBRI_PM_Portfolio_Case_Study.pdf)
 
 ### Full Stack Intern  
 ASU Center for Entrepreneurship & New Business Design (Sep 2024 - Apr 2025, Tempe, AZ)  
-- Developed/maintained full-stack web apps with tracking pixels/cookies, increasing user interaction tracking by 15%  
-- Led adoption of automated CI/CD pipelines and testing frameworks, reducing manual QA by 40%  
-- Collaborated to deliver feedback-driven web products, improving customer satisfaction by 20%
+- Developed/maintained full-stack web apps with tracking pixels/cookies, increasing user interaction tracking by 15%. 
+- Led adoption of automated CI/CD pipelines and testing frameworks, reducing manual QA by 40%.
+- Collaborated to deliver feedback-driven web products, improving customer satisfaction by 20%.
 
 ### Residential Assistant  
 Arizona State University (Jan 2023 - May 2025, Tempe, AZ)  
-- Created community initiatives supporting 2,300+ students emphasizing usability and feedback  
-- Designed and launched student portal (HTML, Google Sites), improving wellness/academic resource access by 20%
+- Created community initiatives supporting 2,300+ students emphasizing usability and feedback.  
+- Designed and launched student portal (HTML, Google Sites), improving wellness/academic resource access by 20%.
 
 ## Projects
 
 ### AI-Powered Messaging Platform (Oct 2024 - Dec 2024)  
-- Developed Django app for multi-channel campaign management with dynamic subscription handling  
-- Integrated Amazon SES, Twilio, and voice APIs for automated delivery and tracking  
-- Enabled AI-generated personalized campaign messages
+- Developed Django app for multi-channel campaign management with dynamic subscription handling.  
+- Integrated Amazon SES, Twilio, and voice APIs for automated delivery and tracking.  
+- Enabled AI-generated personalized campaign messages.
 
 ### Automated File Processing and Data Management System (May 2024 - Aug 2024)  
-- Built React + TypeScript web app for low-code UI authoring managing JSON data  
-- Deployed serverless backend on AWS CDK, Lambda, S3, and DynamoDB  
-- Ensured code quality with Jest testing of UI components
+- Built React + TypeScript web app for low-code UI authoring managing JSON data.  
+- Deployed serverless backend on AWS CDK, Lambda, S3, and DynamoDB.
+- Ensured code quality with Jest testing of UI components.
 
 ### Effort Logging & Planning Poker Desktop App (Jan 2024 - Apr 2024)  
-- Developed JavaFX app for story planning and effort tracking using 20+ FXML UI components  
-- Implemented backend session/role-based access with MySQL and Java  
-- Delivered effort estimation and Planning Poker features in agile sprints, reducing manual input by 35%
+- Developed JavaFX app for story planning and effort tracking using 20+ FXML UI components.  
+- Implemented backend session/role-based access with MySQL and Java.
+- Delivered effort estimation and Planning Poker features in agile sprints, reducing manual input by 35%.
